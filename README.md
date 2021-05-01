@@ -7,3 +7,4 @@ Udacity course quizz/practice on Object Detection course
 - 004_ExploreColorSpaces : RGB/HSU 3D Visualisation of strees, cars and others.
 - 005_SpatialBinningOfColorBuildFeatureVector : write a function that allows you to convert any test image into a feature vector that you can feed your classifier. Takes an image, a color space conversion, and the resolution you would like to convert it to, and returns a feature vector.
 - 006_ObjectDetectionDataExploration : function that takes in these two lists and returns a dictionary with the keys "n_cars", "n_notcars", "image_shape", and "data_type"
+- 007_scikitImageHogFeatureFunction : Define a function to return HOG features and visualization. Features will always be the first element of the return. Image data will be returned as the second element if visualize= True. Otherwise there is no second return element
