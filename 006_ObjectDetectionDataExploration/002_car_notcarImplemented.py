@@ -13,7 +13,8 @@ import glob
 #from skimage import color, exposure
 # images are divided up into vehicles and non-vehicles
 
-images = glob.glob('*.jpeg')
+#images = glob.glob('*.jpeg')
+images = glob.glob('./**/*.jpeg',recursive = True)
 cars = []
 notcars = []
 
