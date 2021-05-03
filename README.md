@@ -13,3 +13,4 @@ Udacity course quizz/practice on Object Detection course
 - 010_HoGClassifyTrainTestEvaluate : training a classifier on our dataset. Classifying with HOG features and see how well we can do, iven all the code to extract HOG features. HoG Classify test/exercise using SVM and Linear SVM Classifier.
 - 011_SlidingWindowImplementation : write a function that takes in an image, start and stop positions in both x and y (imagine a bounding box for the entire search region), window size (x and y dimensions), and overlap fraction (also for both x and y). Your function should return a list of bounding boxes for the search windows, which will then be passed to draw draw_boxes() function.
 - 012_SearchAndClassifyCarsNonCars : Search and Classify cars algo provided. Excercise to tweak parameters to improve cars detection.
+- 013_HogSubSamplingWindowSearch : Code for HoG Sub-sampling but not working due to version of pickle file
